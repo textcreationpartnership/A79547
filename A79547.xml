@@ -1,0 +1,257 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Christs birth not mis-timed: or, A cleare refutation of a resolution to a question about the time of Christ's nativity. By R.S. Pretending to evidence by scripture, that, Iesus Christ was not borne in December.</title>
+            <author>R. S.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79547</idno>
+            <idno type="STC">Wing C3967</idno>
+            <idno type="STC">Thomason E538_12</idno>
+            <idno type="STC">ESTC R206036</idno>
+            <idno type="EEBO-CITATION">99865232</idno>
+            <idno type="PROQUEST">99865232</idno>
+            <idno type="VID">117469</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79547)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117469)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 83:E538[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Christs birth not mis-timed: or, A cleare refutation of a resolution to a question about the time of Christ's nativity. By R.S. Pretending to evidence by scripture, that, Iesus Christ was not borne in December.</title>
+                  <author>R. S.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Royston, in Ivie-lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>M.DC.XL.IX. [1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Jan: 13.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jesus Christ --  Chronology --  Early works to 1800.</term>
+               <term>Christianity --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117469:1"/>
+            <pb facs="tcp:117469:1" rendition="simple:additions"/>
+            <p>CHRISTS BIRTH NOT MIS-TIMED: <hi>OR,</hi> A cleare Refutation of a Reſolution to a Queſtion about the time of CHRIST'S NATIVITY.</p>
+            <p>By <hi>R. S.</hi> Pretending to evidence by Scripture, THAT, IESUS CHRIST <hi>was not borne in December.</hi>
+            </p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Richard Royſton,</hi> in Ivie-lane. <hi>M. DC XL. IX.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:117469:2"/>
+            <pb n="1" facs="tcp:117469:2"/>
+            <head>CHRIST'S BIRTH NOT MIS-TIMED, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">A</seg>Mongſt the reſt of the Pamphlets, there came forth this Week, <hi>a Reſolution to a Question made by the Lord</hi> CAREW, touching the <hi>true time of the Birth of</hi> CHRIST, framed by way of a Letter, and ſub<g ref="char:EOLhyphen"/>ſcribed [<hi>R. S.</hi>] What operation this <hi>Reſolution</hi> may have in theſe unſetled times, I know not: but being it pre<g ref="char:EOLhyphen"/>tends ſo farre to the Scriptures, I may have leave to feare it may have ſome influence on the minds of ſuch as are not well affected to the Reſolves of the Primitive times. Who being already too forward to deny all obedience to their Mother Church, where ſhe cannot evidence her commands expreſly and particularly out of the Word of God; will be greedy of an occaſion or pretence to deſert her in that, which may any way ſeem contrary to it. To prevent any ſuch conſequence, I have ſent this <hi>Refutation</hi> after <hi>R. S.</hi> his <hi>Reſolution,</hi> not doubting but it will clearly ſhew the in<g ref="char:EOLhyphen"/>validity of whatſoever he hath endeavoured to bring for the confirmation of his novel Aſſertion.</p>
+            <p>TO the I. Section, or Preface, I anſwer nothing, becauſe it is only an Addreſſe, and pretends not to any part of the proof. Of the II. Section, the Title is this, [<hi>The true time of Chriſt's Nativity evidenced.</hi>] In this I deſire to joyne iſſue, and deny that any Evidence of the true time of Chriſt's Nativity is to be found in this Section, which is the Body of his Reſolution. His Argu<g ref="char:EOLhyphen"/>ment runs thus, <hi>The Conception of</hi> John Baptiſt <hi>was in the Month of</hi> June. <hi>Therefore the Conception of</hi> Chriſt (<hi>not the Birth) was in</hi> December, <hi>the 6 Month after</hi> June.</p>
+            <p>The conſequence I acknowledge without any further diſpute, and therefore ſhall not at all queſtion the proof. If <hi>John the Baptiſt</hi> can be prov'd out of Scripture to have been conceiv'd in <hi>June,</hi> I will not deny but our Saviour was conceived, and conſe<g ref="char:EOLhyphen"/>quently will confeſſe that he was not Borne in <hi>December.</hi>
+            </p>
+            <p>But the Antecedent is in no wiſe to be admitted, wherefore I abſolutely deny that it can be proved out of Scripture that <hi>John Baptiſt</hi> was conceived in <hi>June,</hi> and therefore to your Argument contained in the ſecond part of the II. Section, which endeavours to prove the Antecedent, I anſwer thus:</p>
+            <p>The Argument, ſo much of it as is taken out of the Scriptures, is no more then this:
+<list>
+                  <item>
+                     <pb n="2" facs="tcp:117469:3"/>The courſe of <hi>Abiah</hi> was the 8 courſe of the Prieſts, <hi>1 Chr. 24. 10.</hi>
+                  </item>
+                  <item>
+                     <hi>Zacharias</hi> was of the courſe of <hi>Abiah, Luke 1. 5.</hi>
+                  </item>
+                  <item>After the courſe of <hi>Abiah, John Baptiſt</hi> was conceived, <hi>Luk. 1. 26.</hi>
+                  </item>
+                  <item>
+                     <hi>Niſan</hi> (or <hi>Abib</hi>) was the firſt month of the year, <hi>Exod, 12. 2. 13. 4.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Now if all theſe Propoſitions, taken out of theſe ſeverall places of Scripture be reduced into forme, the Argument will run thus,
+<list>
+                  <item>The courſe of <hi>Abiah</hi> was the 8 courſe of the Prieſts, <hi>1 Chr. 24. 10.</hi>
+                  </item>
+                  <item>
+                     <hi>Zachariah</hi> was of the courſe of <hi>Abiah, Luke 1. 5.</hi> Ergo, <hi>Zachariah</hi> was of the 8 courſe of the Prieſts.</item>
+               </list>
+            </p>
+            <p>This Syllogiſme I acknowledge to be very good, and therefore ſhall take the Concluſion for a truth: Only this I muſt have leave to put in by the way. If the Courſe remained in the ſame Order, in the daies of <hi>Herod,</hi> in which they were inſtituted by K. <hi>David.</hi> For, being this cannot be proved out of the Scripture, and being poſſible that in ſo long time, and ſo many confuſions, the order might be altered; therefore though the premiſes be both in the Scripture, yet the Concluſion is not altogether of Scripture Au<g ref="char:EOLhyphen"/>thority.</p>
+            <p>But being <hi>Joſephus</hi> hath witneſſed, that the Order was not al<g ref="char:EOLhyphen"/>tered, I admit the Concluſion as a truth.</p>
+            <p>Which being admitted, the next Syllogiſme will be this:
+<list>
+                  <item>The courſe of <hi>Zachariah</hi> was the 8 courſe of the Prieſts.</item>
+                  <item>
+                     <hi>John Baptiſt</hi> was conceived at the end of the courſe of <hi>Zachariah, Luke 1. 26.</hi> Ergo, <hi>John Baptiſt</hi> was conceived at the end of the 8 courſe of the Prieſts.</item>
+               </list>
+            </p>
+            <p>This Syllogiſme I likewiſe willingly admit. But being this has not yet made an end of the Queſtion, We muſt thus proceed:
+<list>
+                  <item>The end of the 8 courſe of the Prieſts was in <hi>June.</hi>
+                  </item>
+                  <item>
+                     <hi>John Baptiſt</hi> was conceived at the end of the 8 courſe of the Prieſt. Ergo, <hi>John Baptiſt</hi> was conceived in <hi>June.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Without this Syllogiſme it is evident that the Queſtion is not proved at all, and by this Syllogiſme, if it be good, it is as evident, and I doe freely acknowledge, that the Queſtion is by the Re<g ref="char:EOLhyphen"/>ſolver fully prov'd. But to this I anſwer,</p>
+            <p>The <hi>Minor,</hi> or ſecond Propoſition, I acknowledge, as being the Concluſion of the former Syllogiſme which I before admit<g ref="char:EOLhyphen"/>ted. But the former Propoſition, or <hi>Major,</hi> I abſolutely deny to be formally or virtually contained in the Scriptures, and conſe<g ref="char:EOLhyphen"/>quently I affirme the Concluſion not to be proved by this Argu<g ref="char:EOLhyphen"/>ment out of Scripture.</p>
+            <p>
+               <pb n="3" facs="tcp:117469:3"/>All the Scripture which is brought by the Reſolver to prove the <hi>Major,</hi> are two places out of <hi>Exodus,</hi> from which it is truely collected, that <hi>Niſan,</hi> or <hi>Abib,</hi> was the firſt Month of the yeare: So that his Argument muſt run thus,
+<list>
+                  <item>
+                     <hi>Niſan</hi> (or <hi>Abib</hi>) was the firſt month of the year, <hi>Exod. 12. 2. 13. 4.</hi>
+                  </item>
+                  <item>Ergo, The end of the 8 courſe of the Prieſts was in <hi>June.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>This is all which he brings out of the Scriptures to prove this Propoſition, and every one ſees that of it ſelf this proves it not. Therefore the <hi>Reſolver</hi> in his diſcourſe hath not prov'd out of the Scriptures, <hi>that the end of the 8 courſe was in June,</hi> and conſequent<g ref="char:EOLhyphen"/>ly, hath not proved out of the Scriptures, <hi>that John Baptiſt was conceived in June,</hi> which he undertook to prove.</p>
+            <p>But though he have not proved his Aſſertion out of the Scrip<g ref="char:EOLhyphen"/>tures, yet I muſt confeſſe he addeth that of his owne, without any authority of Scripture, or any other Authour, which if it were in the Scriptures, might prove his Aſſertion to be of Scripture<g ref="char:EOLhyphen"/>truth, and of divine authority; or if it were in any other good Authour, might make it probable according to the authority of the Authour.</p>
+            <p>Now that which thus he adds, as I ſaid of his own, conſiſts of theſe two particulars:
+<list>
+                  <item>1. <hi>That the firſt Courſe began alwaies at the beginning of the firſt Month of the yeare.</hi>
+                  </item>
+                  <item>2. <hi>That each Courſe continued a Fortnight, and ſo the 24 Cour<g ref="char:EOLhyphen"/>ſes made up a full compleat yeare: and conſequently, that the end of the 8 Courſe was at the end of the 4 Mouth, which was June.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>But this addition of the <hi>Reſolver,</hi> is not onely not to be found, in the word of God, or in any other Authour of any antiquity, (as I preſume) but is in it ſelf conſidered apparently falſe. For, 12 Fornights doe not make an Hebrew year, nor 2 Fortnights an Hebrew Month. Suppoſe then that the courſe of <hi>Joiarib,</hi> or the firſt courſe, ſhould be the firſt day of <hi>Abib,</hi> and that day fortnight. 1. The 15 day of <hi>Abib</hi> the a Courſe, and ſo ſucceſſively to the end of the 24 Courſes, it is evident that all the Courſes would be gone over in 336 daies, for 14 times 24 make preciſely 336. But even in the Lunar year of the Hebrews, without any interca<g ref="char:EOLhyphen"/>lation, there are contained no leſſe then 354 daies. So that of ne<g ref="char:EOLhyphen"/>ceſſity there muſt be 18 daies left at the end of the yeare without any Courſe of Prieſts: and conſequently the daily Sacrifice muſt
+<pb n="4" facs="tcp:117469:4"/>
+ceaſe, for the conſtant performance of which, theſe Courſes were inſtituted, which of it ſelfe is moſt falſe: or the firſt Courſe muſt then begin againe, which is moſt contradictory to the firſt part of the <hi>Reſolver</hi>'s Addition, <hi>viz. That the first Courſe alwaies begins with the firſt day of the first Month.</hi>
+            </p>
+            <p>But, the truth is, theſe parts of the <hi>Reſolver</hi>'s Addition doe not onely (taken joyntly together) include a manifeſt repugnan<g ref="char:EOLhyphen"/>cy, (which proves but one of them falſe) but each of them ſeve<g ref="char:EOLhyphen"/>rally is not onely deſtitute of any proofe in the Holy writ, or other good authority; but will appeare by it ſelf to be falſe by as good authority as can poſſibly in ſuch a caſe be had.</p>
+            <p>
+               <hi>Joſephus</hi> a learned Jew, who was himſelf a Prieſt, and one of the courſe of <hi>Jeiarib;</hi> the onely man upon whoſe authority the continuation of the Order in the Courſes from <hi>Solomon's</hi> inſti<g ref="char:EOLhyphen"/>tution to the deſtruction of the ſecond Temple, (without which, the very firſt part of the <hi>Reſolver</hi>'s Argument ſignifies nothing) this <hi>Joſephus,</hi> I ſay, tells us plainly, that <hi>David inſtituted theſe Courſes of the Prieſts not for a Fortnight together, but a Weeke.</hi> His words are theſe in the 11 <hi>chap.</hi> of the 7 <hi>Booke</hi> of the <hi>Jowiſh Anti<g ref="char:EOLhyphen"/>quities,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. i. e. <hi>David appointed one family in its courſe to miniſter unto the Lord for 8 daies, from Sabbath to Sub<g ref="char:EOLhyphen"/>bath.</hi> He calls (indeed) the ſpace of time allotted to each courſe, 8 <hi>daies,</hi> reckoning (according to their manner) both the day they began, and the day they ended their ſervice; which is evident by the words which immediately follow them, <hi>from Sabbath to Sab<g ref="char:EOLhyphen"/>bath.</hi> As therefore it is ſaid, <hi>Luke 2. 21. When eight daies were ac<g ref="char:EOLhyphen"/>compliſhed for the circumciſing of the Child, his name was called Je<g ref="char:EOLhyphen"/>ſus;</hi> whereas he was circumciſed on the 8 day, and ſo there were but 7 compleat daies from his Nativity to his Circumciſion: So the Courſes of the Prieſts are ſaid to <hi>miniſter 8 daies,</hi> whereas they began their <hi>ſervice on the Sabbath;</hi> &amp; ended at the ſame time of the day the <hi>next Sabbath,</hi> which is but the ſpace of 7 <hi>compleat daies.</hi> And ſo they performed the ſervice of but 7 <hi>daies.</hi> Which is moſt evident out of a Booke of theirs extant, called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Sepher Maamadoth,</hi> i. e. <hi>the Booke of their Services, or their Liturgy;</hi> which is divided into ſeven parts, containing the Servi<g ref="char:EOLhyphen"/>ces of the 7 daies. The Courſes then were not for a Fortnight, but for a Weeke, as <hi>Theophylact</hi> upon Saint <hi>Luke,</hi> hath well ob<g ref="char:EOLhyphen"/>ſerved, ſaying, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:117469:4"/>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, i. e. <hi>Solomon when he had finiſhed the Temple, appointed alſo the Courſes,</hi> that is to ſay, <hi>the Weeks.</hi> And this may be further evidenced yet even out of the word of God. For, at the ſame time that the Prieſts were divided into 24 Courſes the Levites were divided ſo likewiſe for their attendance on the Prieſts, 1 <hi>Chron.</hi> 23. 6. of which <hi>Joſepus</hi> ſpeaks very expreſsly, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, i. e. <hi>David divided alſo the Tribe of Levi into 24 parts, who by lot kept their Courſes for 8 daies, after the manner of the Courſes of the Prieſts.</hi> The Levites then were divided after the ſame manner with the Prieſts and kept the ſame Courſes. But the Levites Courſes were but weekly, as appears, 1 <hi>Chron. 9. 25. And their Brethren, (viz.</hi> the Levites) <hi>which were in their Villages were to come after 7 daies from time to time with them;</hi> therefore the Courſes of the Prieſts were weekly. And this Weeke began al<g ref="char:EOLhyphen"/>waies on the Sabbath day, as appeares by the words of <hi>Joſephus,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>from Sabbath to Sabbath:</hi> and out of <hi>Sepher Maaboth,</hi> or their <hi>Liturgy,</hi> in which are theſe words, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> i. e. <hi>And in the Sabbath they added one Benediction to the Courſe that went off.</hi>
+            </p>
+            <p>Now being every Courſe began on the Sabbath day, and the firſt day of the month began on any day of the weeke, as well as the Sabbath, and being all theſe weekly Courſes were compleated in 168 daies (for 7 times 24 make ſo many) and then to begin again, that there might be no intermiſſion of the ſervice of God; therefore the firſt Courſe could not be tied to the beginning of any month, much leſſe to the beginning of any yeare. The truth of all which any man muſt at firſt of neceſſity confeſſe, who has but obſerved how exact the <hi>Jemes</hi> were in keeping theſe Courſes, and how looſe in the obſervation of their Months and Yeares.</p>
+            <p>By all which it is clearly demonſtrated (as farre as matters of this nature are capable of demonſtration) that the ſeverall Cour<g ref="char:EOLhyphen"/>ſes of the Prieſts inſtit<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ted by <hi>David</hi> did not continue for a fort<g ref="char:EOLhyphen"/>night together; Neither did the firſt Courſe of <hi>Joiarih</hi> alwaies begin with the firſt Month <hi>Niſan</hi> or <hi>Abib,</hi> Without which Pro<g ref="char:EOLhyphen"/>poſitions granted to be true, (as they are moſt certainly falſe) all which the <hi>Reſolver</hi> brings out of the Scripture doth nor prove any ſuch thing as, <hi>that John<g ref="char:punc">▪</g> Baptiſt was conceived in June.</hi>
+            </p>
+            <p>
+               <pb n="6" facs="tcp:117469:5"/>From hence I conclude, that the <hi>Reſolvers</hi> Argument doth not prove <hi>that our Savious was conceived in December,</hi> becauſe the Antecedent of the Argument is not proved, <hi>viz. that John Bap<g ref="char:EOLhyphen"/>tiſt was conceived in June.</hi>
+            </p>
+            <p>To the III. Section, by way of Poſtſcript, in which he endea<g ref="char:EOLhyphen"/>voureth to ſhew, <hi>that Saint Chryſoſtome was the Occaſion of this Errour, who ſuppoſed Zachary to be the High Prieſt.</hi> I Anſwer,</p>
+            <p>
+               <hi>That Saint Chryſoſtome did thinke Zachary was the High Prieſt,</hi> is true: and <hi>that that opinion of Saint Chryſoſtome is falſe,</hi> I con<g ref="char:EOLhyphen"/>feſſe: But that <hi>that opinion was the Occaſion of obſerving the 25 day of December for Christs Nativity,</hi> I abſolutely deny. And this the <hi>Reſolver</hi> doth not, cannot prove.</p>
+            <p>For, that which was obſerv'd before Saint <hi>Chryſoſtome</hi>'s time could not be occaſioned by any opinion of S. <hi>Chryſoſtome.</hi>
+            </p>
+            <p>But the obſervation of the 25 of <hi>December</hi> for the <hi>Nativity of our Saviour</hi> was before S. <hi>Chryſoſtome</hi>'s time.</p>
+            <p>Therefore the Obſervation of the 25 of <hi>December for the Na<g ref="char:EOLhyphen"/>tivity</hi> was not occaſioned by any opinion of S. <hi>Chryſoſtome,</hi> and conſequently, not by that opinion of his, <hi>that Zachariah was the High Prieſt.</hi>
+            </p>
+            <p>The <hi>major</hi> is without all Queſtion true. The <hi>minor</hi> is as cer<g ref="char:EOLhyphen"/>taine out of antiquity. But I ſhall onely prove it by S. <hi>Chryſo<g ref="char:EOLhyphen"/>ſtome</hi>'s owne teſtimony: who in a Sermon preached upon this day at <hi>Antioch,</hi> declares, <hi>that he was not the Authour nor occaſion of the Celebration of it; but that he received it from the Church of</hi> Rome, <hi>who by an antient tradition had long obſerved it:</hi> his words are theſe, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, i. e. <hi>But heare and believe, that we have received this day</hi> (25 <hi>of</hi> December) <hi>from thoſe which have exact knowledge of theſe things, and inhabit that City,</hi> (Rome) <hi>where the Cenſuals Tables were extant in which our Sa<g ref="char:EOLhyphen"/>viours Nativity was deſcribed.</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>For they which live there, having a long while by an antient Tradition celebrated this day, have now at laſt tranſmitted the knowledge of it to us.</hi> Thus the Eaſterne Church, and particular<g ref="char:EOLhyphen"/>ly S. <hi>Chryſ:</hi> received this day from the Weſtern Church, and con<g ref="char:EOLhyphen"/>ſe quently S. <hi>Chryſ:</hi> by his errour was no occaſion of the Celebra<g ref="char:EOLhyphen"/>tion of the 25 day of <hi>December.</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
